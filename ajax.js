@@ -56,8 +56,8 @@ request.addEventListener("load", function() {
   countriesContainer.style.opacity = 1;
 })
 }
-getCountry("china");
 getCountry("india");
+getCountry("china");
 getCountry("nepal");
 
 // ////////////////////////////////////////////////////////////
